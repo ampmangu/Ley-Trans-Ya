@@ -5,7 +5,8 @@ const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `En Apoyo A La Ley Trans`,
+    siteTitleAlt: `En Apoyo A La Ley Trans`,
   },
   plugins: [
     {
@@ -13,24 +14,24 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          {
-            title: `Blog`,
-            slug: `/blog`,
-          },
-          {
-            title: `About`,
-            slug: `/about`,
-          },
+          // {
+          //   title: `Blog`,
+          //   slug: `/blog`,
+          // },
+          // {
+          //   title: `About`,
+          //   slug: `/about`,
+          // },
         ],
         externalLinks: [
-          {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
-          },
-          {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
-          },
+          // {
+          //   name: `Twitter`,
+          //   url: `https://twitter.com/lekoarts_de`,
+          // },
+          // {
+          //   name: `Homepage`,
+          //   url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+          // },
         ],
       },
     },
