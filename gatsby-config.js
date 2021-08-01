@@ -9,7 +9,7 @@ module.exports = {
     siteTitleAlt: `En Apoyo A La Ley Trans`,
     description: `Sitio web en apoyo a la Ley Trans`,
     banner: `/banner.jpg`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/new-banner.jpg`,
     siteDescription: `Sitio web en apoyo a la Ley Trans`
   },
   plugins: [
