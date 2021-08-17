@@ -67,7 +67,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
+        short_name: `En Apoyo A La Ley Trans`,
         description: `En Apoyo A La Ley Trans`,
         start_url: `/`,
         background_color: `#fff`,
